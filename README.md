@@ -2,6 +2,7 @@
 [![Tech](https://img.shields.io/badge/Tech-HTML%20%7C%20CSS-blue)](#technologies-used)
 [![Deployment](https://img.shields.io/badge/Deployed%20On-Netlify-purple)](#deployment)
 
+![Website Screenshot](assets/screenshot.png)
 
 # Clear Path Junk Removal – Startup Website
 
