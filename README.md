@@ -1,3 +1,8 @@
+[![Live Site](https://img.shields.io/badge/Live%20Site-clearpathjunkremoval.company-2ea44f)](https://clearpathjunkremoval.company)
+[![Tech](https://img.shields.io/badge/Tech-HTML%20%7C%20CSS-blue)](#technologies-used)
+[![Deployment](https://img.shields.io/badge/Deployed%20On-Netlify-purple)](#deployment)
+
+
 # Clear Path Junk Removal – Startup Website
 
 Production website developed for **Clear Path Junk Removal, LLC.**, a Houston-based junk removal startup.
